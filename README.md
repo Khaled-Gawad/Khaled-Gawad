@@ -12,9 +12,22 @@
 
 ### 🏆 Highlight Projects  
 - [E-Commerce Test Automation](https://github.com/you/ecom-test-automation): Reduced regression time by 30%  
-- [PLC-Based Garage Control](https://github.com/you/plc-garage): Simulated in Factory I/O  
-- [Industrial Automation Labs](https://github.com/you/industrial-labs): Star-Delta starters, Tank Control  
+- [PLC-Based Garage Control ]: Simulated in Factory I/O  
+- [Industrial Automation Labs](): Star-Delta starters, Tank Control  
 
 📌 **Currently Learning:** ISTQB Certification, Robot Framework  
 
-🔗 Connect: [LinkedIn](https://linkedin.com/in/khaledabdelgawad) | [Portfolio](#) *(optional)*  
+### 🛠️ Technical Stack  
+
+**Programming Languages:**  
+- <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">  
+- <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"> *(Selenium/Test Automation)*  
+- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> *(Scripting/Data Analysis)*  
+
+**Industrial Automation:**  
+- <img src="https://img.shields.io/badge/TIA_Portal-0064B1?logo=siemens&logoColor=white" alt="TIA Portal">  
+- <img src="https://img.shields.io/badge/Ladder_Logic-FF6600?logo=probot&logoColor=white" alt="Ladder Logic">  
+
+**Testing Tools:**  
+- <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">  
+- <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">  
