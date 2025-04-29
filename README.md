@@ -2,6 +2,7 @@
 **Industrial Automation Engineer | Software Tester**  
 📍 Cairo, Egypt | 📧 khaledgawad16@gmail.com  
 
+
 ### 🔧 Technical Skills  
 | **Industrial Automation**       | **Software Testing**          |  
 |---------------------------------|-------------------------------|  
@@ -9,6 +10,7 @@
 | ✅ Ladder Logic/STL/FBD         | ✅ Postman (API Testing)      |  
 | ✅ Motor Control Systems        | ✅ Jira/Xray Test Management  |  
 | ✅ Classic Control Circuits     | ✅ Bug Reporting & Tracking   |  
+
 
 ### 🏆 Highlight Projects  
 - [E-Commerce Test Automation](https://github.com/Khaled-Gawad/GHR2_SWD6_G1_1.git): Reduced regression time by 30%  
@@ -24,9 +26,13 @@
 - <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"> *(Selenium/Test Automation)*  
 - <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> *(Scripting/Data Analysis)*  
 
+
+
 **Industrial Automation:**  
 - <img src="https://img.shields.io/badge/TIA_Portal-0064B1?logo=siemens&logoColor=white" alt="TIA Portal">  
 - <img src="https://img.shields.io/badge/Ladder_Logic-FF6600?logo=probot&logoColor=white" alt="Ladder Logic">  
+
+
 
 **Testing Tools:**  
 - <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">  
