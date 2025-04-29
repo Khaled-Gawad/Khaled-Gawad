@@ -15,9 +15,9 @@
 - PLC-Based Garage Control : Simulated in Factory I/O  
 - Industrial Automation Labs : Star-Delta starters, Tank Control  
 
+
 📌 **Currently Learning:** ISTQB Certification, Robot Framework  
 
-### 🛠️ Technical Stack  
 
 **Programming Languages:**  
 - <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">  
