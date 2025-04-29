@@ -11,9 +11,9 @@
 | ✅ Classic Control Circuits     | ✅ Bug Reporting & Tracking   |  
 
 ### 🏆 Highlight Projects  
-- [E-Commerce Test Automation](https://github.com/you/ecom-test-automation): Reduced regression time by 30%  
-- [PLC-Based Garage Control ]: Simulated in Factory I/O  
-- [Industrial Automation Labs](): Star-Delta starters, Tank Control  
+- [E-Commerce Test Automation](https://github.com/Khaled-Gawad/GHR2_SWD6_G1_1.git): Reduced regression time by 30%  
+- PLC-Based Garage Control : Simulated in Factory I/O  
+- Industrial Automation Labs : Star-Delta starters, Tank Control  
 
 📌 **Currently Learning:** ISTQB Certification, Robot Framework  
 
